@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600">
+  <rect width="800" height="600" fill="#e8f0e8"/>
+  <rect x="100" y="80" width="250" height="440" rx="15" fill="#a8c5a0" opacity="0.4"/>
+  <rect x="120" y="100" width="210" height="350" rx="10" fill="#ffffff" opacity="0.6"/>
+  <rect x="140" y="120" width="170" height="100" rx="8" fill="#7db87a" opacity="0.3"/>
+  <rect x="140" y="240" width="170" height="8" rx="4" fill="#5a8a57" opacity="0.4"/>
+  <rect x="140" y="260" width="120" height="6" rx="3" fill="#5a8a57" opacity="0.3"/>
+  <rect x="450" y="80" width="250" height="440" rx="15" fill="#a8c5a0" opacity="0.4"/>
+  <rect x="470" y="100" width="210" height="350" rx="10" fill="#ffffff" opacity="0.6"/>
+  <rect x="490" y="120" width="170" height="100" rx="8" fill="#7db87a" opacity="0.3"/>
+  <rect x="490" y="240" width="170" height="8" rx="4" fill="#5a8a57" opacity="0.4"/>
+  <rect x="490" y="260" width="120" height="6" rx="3" fill="#5a8a57" opacity="0.3"/>
+  <text x="400" y="560" text-anchor="middle" font-family="Georgia, serif" font-size="18" fill="#3d6b3a">Social Media - Carrossel</text>
+</svg>

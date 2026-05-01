@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600">
+  <rect width="800" height="600" fill="#fff5e6"/>
+  <polygon points="400,80 550,250 480,250 580,420 350,420 450,250 380,250" fill="#e8b84d" opacity="0.3"/>
+  <circle cx="400" cy="300" r="120" fill="none" stroke="#d4a030" stroke-width="3" opacity="0.4"/>
+  <circle cx="400" cy="300" r="80" fill="none" stroke="#d4a030" stroke-width="2" opacity="0.3"/>
+  <rect x="340" y="280" width="120" height="40" rx="20" fill="#d4a030" opacity="0.4"/>
+  <text x="400" y="520" text-anchor="middle" font-family="Georgia, serif" font-size="18" fill="#8a6b20">Logo Design</text>
+</svg>
