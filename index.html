@@ -1,10 +1,79 @@
 <!DOCTYPE html>
-<html>
-  <head>
+<html lang="pt-BR">
+<head>
     <meta charset="UTF-8">
-    <title>Hello, World!</title>
-  </head>
-  <body>
-    <h1>Hello World!</h1>
-  </body>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfólio | Design & Social Media</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header class="header">
+        <div class="container">
+            <!-- Substitua pelo nome ou logo dela -->
+            <h1 class="logo">Nome Dela</h1>
+            <nav>
+                <ul class="nav-links">
+                    <li><a href="#sobre">Sobre</a></li>
+                    <li><a href="#portfolio">Portfólio</a></li>
+                    <li><a href="#contato">Contato</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <main>
+        <!-- Seção de Introdução -->
+        <section id="sobre" class="hero">
+            <div class="container">
+                <h2>Criando conexões visuais e estratégicas.</h2>
+                <p>Design Gráfico & Social Media</p>
+                <a href="#portfolio" class="btn">Ver Trabalhos</a>
+            </div>
+        </section>
+
+        <!-- Grid de Projetos -->
+        <section id="portfolio" class="portfolio">
+            <div class="container">
+                <h3>Meus Trabalhos</h3>
+                <div class="grid">
+                    <!-- Card de Projeto 1 -->
+                    <div class="card">
+                        <!-- Para adicionar as imagens reais, basta trocar o link no 'src' -->
+                        <img src="https://via.placeholder.com/400x300/EAEAEA/888888?text=Projeto+1" alt="Projeto de Social Media">
+                        <div class="card-info">
+                            <h4>Campanha Social Media</h4>
+                        </div>
+                    </div>
+                    
+                    <!-- Card de Projeto 2 -->
+                    <div class="card">
+                        <img src="https://via.placeholder.com/400x300/EAEAEA/888888?text=Projeto+2" alt="Identidade Visual">
+                        <div class="card-info">
+                            <h4>Identidade Visual</h4>
+                        </div>
+                    </div>
+
+                    <!-- Card de Projeto 3 -->
+                    <div class="card">
+                        <img src="https://via.placeholder.com/400x300/EAEAEA/888888?text=Projeto+3" alt="Design para Web">
+                        <div class="card-info">
+                            <h4>Criativos para Ads</h4>
+                        </div>
+                    </div>
+                    
+                    <!-- Adicione mais divs com a classe "card" conforme precisar -->
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer id="contato" class="footer">
+        <div class="container">
+            <h3>Vamos trabalhar juntos?</h3>
+            <p>Email: contato@email.com.br</p>
+            <p>Instagram: @perfil_dela</p>
+            <p>Behance / Dribbble: /perfil_dela</p>
+        </div>
+    </footer>
+</body>
 </html>
